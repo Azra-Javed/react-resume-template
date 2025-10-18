@@ -199,7 +199,7 @@ export const portfolioItems: PortfolioItem[] = [
     description:
       'A scalable and interactive marketplace connecting customers, sellers, and admins in real-time with Stripe payments and cloud storage.',
     url: 'https://shop-trendora.vercel.app/',
-    githubUrl: 'https://github.com/Azra-Javed/trendora-multivendor-ecommer',
+    githubUrl: 'https://github.com/Azra-Javed/trendora-multivendor-ecommerce',
     image: porfolioImage1,
     techStack: ['React', 'Node.js', 'Express', 'Socket', 'MongoDB', 'Stripe', 'Cloudinary'],
   },
@@ -226,7 +226,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Coursely | Learning management system',
     description:
       'A modern and responsive Learning Management System (LMS) built with Next.js, Sanity CMS, and Stripe. Coursely enables educators to create, manage, and sell online courses effortlessly while providing learners with an engaging and intuitive platform to study...',
-    url: 'https://shopsmart-ui.vercel.app',
+    url: 'https://lms-build-delta.vercel.app/',
     githubUrl: 'https://github.com/Azra-Javed/next-lms',
     image: porfolioImage3,
     techStack: ['Next Js', 'Sanity', 'Stripe'],
@@ -237,7 +237,7 @@ export const portfolioItems: PortfolioItem[] = [
     description:
       'Shopr is a sleek e-commerce platform built with Next.js, Sanity, Stripe, and Clerk. It delivers a smooth, secure, and modern shopping experience with real-time product management and seamless checkout.',
     url: 'https://ecommerce-tau-vert.vercel.app/',
-    githubUrl: 'https://github.com/azrajaved/blogify',
+    githubUrl: 'https://github.com/Azra-Javed/next-ecommerce',
     image: porfolioImage4,
     techStack: ['Next js', 'Sanity', 'Stripe', 'Clerk'],
   },
