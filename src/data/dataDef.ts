@@ -81,6 +81,8 @@ export interface PortfolioItem {
   description: string;
   url: string;
   image: string | StaticImageData;
+  githubUrl?: string; // Optional: GitHub repository link
+  techStack?: string[];
 }
 
 /**
